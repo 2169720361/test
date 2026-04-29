@@ -1,0 +1,6 @@
+pytest
+pytest-rerunfailures
+requests
+PyYAML
+allure-pytest
+playwright
